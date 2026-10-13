@@ -1,0 +1,63 @@
+{
+ "out": "assets/reels/06-ski-a-volcano.mp4",
+ "segments": [
+  {
+   "image": "assets/story/DSCF3259.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/DSCF3266.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/LM_06286.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/DSCF3305.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/DSCF3430.jpg",
+   "dur": 2.4
+  },
+  {
+   "endcard": true,
+   "dur": 2.6,
+   "line1": "Ski touring in Hokkaido",
+   "line2": "wildr.shop"
+  }
+ ],
+ "texts": [
+  {
+   "t0": 0.2,
+   "t1": 1.9,
+   "text": "Asahidake\nHokkaido's highest peak",
+   "style": "Low"
+  },
+  {
+   "t0": 2.2,
+   "t1": 3.9,
+   "text": "Skin up from the ropeway",
+   "style": "Low"
+  },
+  {
+   "t0": 4.2,
+   "t1": 5.9,
+   "text": "Past steaming volcanic vents",
+   "style": "Low"
+  },
+  {
+   "t0": 6.2,
+   "t1": 7.9,
+   "text": "Earn your turns",
+   "style": "Low"
+  },
+  {
+   "t0": 8.2,
+   "t1": 9.9,
+   "text": "Then ride it all the way down",
+   "style": "Low"
+  }
+ ]
+}

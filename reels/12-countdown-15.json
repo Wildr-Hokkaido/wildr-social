@@ -1,0 +1,67 @@
+{
+ "out": "assets/reels/12-countdown-15.mp4",
+ "segments": [
+  {
+   "image": "assets/story/LM_06258.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/LM_06231.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/LM_06200.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/LM_06652.jpg",
+   "dur": 2.4
+  },
+  {
+   "endcard": true,
+   "dur": 2.6,
+   "line1": "Powder season starts 28 November",
+   "line2": "wildr.shop"
+  }
+ ],
+ "texts": [
+  {
+   "t0": 0.2,
+   "t1": 1.9,
+   "text": "15",
+   "style": "Huge",
+   "pos": [
+    540,
+    860
+   ]
+  },
+  {
+   "t0": 0.5,
+   "t1": 1.9,
+   "text": "DAYS TO GO",
+   "style": "Big",
+   "pos": [
+    540,
+    1080
+   ]
+  },
+  {
+   "t0": 2.2,
+   "t1": 3.9,
+   "text": "Two weeks to go",
+   "style": "Low"
+  },
+  {
+   "t0": 4.2,
+   "t1": 5.9,
+   "text": "Wax the skis",
+   "style": "Low"
+  },
+  {
+   "t0": 6.2,
+   "t1": 7.9,
+   "text": "See you in the deep stuff",
+   "style": "Low"
+  }
+ ]
+}

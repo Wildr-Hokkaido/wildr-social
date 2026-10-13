@@ -1,0 +1,18 @@
+{
+  "out": "assets/reels/02-dreaming-of-deep-snow.mp4",
+  "segments": [
+    {"image": "assets/story/DSCF3161.jpg", "dur": 2.6},
+    {"image": "assets/story/LM_06074.jpg", "dur": 2.4},
+    {"image": "assets/story/LM_06089.jpg", "dur": 2.4},
+    {"image": "assets/story/LM_06511.jpg", "dur": 2.4},
+    {"image": "assets/story/LM_06652.jpg", "dur": 2.4},
+    {"image": "assets/story/LM_06563.jpg", "dur": 2.4},
+    {"endcard": true, "dur": 2.6, "line1": "Guided powder weeks in Hokkaido", "line2": "wildr.shop"}
+  ],
+  "texts": [
+    {"t0": 0.2, "t1": 2.2, "text": "Dreaming of\ndeep snow?", "style": "Big"},
+    {"t0": 2.4, "t1": 6.2, "text": "Light, dry Hokkaido powder", "style": "Low"},
+    {"t0": 6.4, "t1": 10.2, "text": "Local guides who know\nwhere it is deepest", "style": "Low"},
+    {"t0": 10.4, "t1": 12.2, "text": "Small groups. Big days.", "style": "Low"}
+  ]
+}

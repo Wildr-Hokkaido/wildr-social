@@ -1,0 +1,63 @@
+{
+ "out": "assets/reels/10-evenings-in-hokkaido.mp4",
+ "segments": [
+  {
+   "image": "assets/story/DSCF3254.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/DSCF3348.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/DSCF3352.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/DSCF3333.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/DSCF3137.jpg",
+   "dur": 2.4
+  },
+  {
+   "endcard": true,
+   "dur": 2.6,
+   "line1": "Hokkaido, this winter",
+   "line2": "wildr.shop"
+  }
+ ],
+ "texts": [
+  {
+   "t0": 0.2,
+   "t1": 1.9,
+   "text": "After the last run",
+   "style": "Big"
+  },
+  {
+   "t0": 2.2,
+   "t1": 3.9,
+   "text": "Izakaya nights",
+   "style": "Low"
+  },
+  {
+   "t0": 4.2,
+   "t1": 5.9,
+   "text": "Sushi, sake and stories",
+   "style": "Low"
+  },
+  {
+   "t0": 6.2,
+   "t1": 7.9,
+   "text": "Food you'll talk about\nfor years",
+   "style": "Low"
+  },
+  {
+   "t0": 8.2,
+   "t1": 9.9,
+   "text": "Then sleep. More snow tonight.",
+   "style": "Low"
+  }
+ ]
+}

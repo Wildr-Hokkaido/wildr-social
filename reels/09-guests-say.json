@@ -1,0 +1,53 @@
+{
+ "out": "assets/reels/09-guests-say.mp4",
+ "segments": [
+  {
+   "image": "assets/story/LM_06229.jpg",
+   "dur": 2.6
+  },
+  {
+   "image": "assets/story/LM_06258.jpg",
+   "dur": 2.6
+  },
+  {
+   "image": "assets/story/LM_06652.jpg",
+   "dur": 2.6
+  },
+  {
+   "image": "assets/story/LM_06511.jpg",
+   "dur": 2.6
+  },
+  {
+   "endcard": true,
+   "dur": 2.6,
+   "line1": "Trustpilot 4.4 · all reviews 5 stars",
+   "line2": "wildr.shop"
+  }
+ ],
+ "texts": [
+  {
+   "t0": 0.2,
+   "t1": 2.1,
+   "text": "“Like Niseko used to be\n25-30 years ago!”\nPeter, Australia",
+   "style": "Low"
+  },
+  {
+   "t0": 2.4,
+   "t1": 4.3,
+   "text": "“Expert guides, seamless logistics,\ndeep powder, and zero stress.”\nJamie, Vietnam",
+   "style": "Low"
+  },
+  {
+   "t0": 4.6,
+   "t1": 6.5,
+   "text": "“Their ability to find the pow\nis second to none.”\nSarah, Australia",
+   "style": "Low"
+  },
+  {
+   "t0": 6.8,
+   "t1": 8.7,
+   "text": "“Incredible Japanese powder that\nmade every day unforgettable.”\nMads",
+   "style": "Low"
+  }
+ ]
+}

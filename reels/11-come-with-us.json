@@ -1,0 +1,63 @@
+{
+ "out": "assets/reels/11-come-with-us.mp4",
+ "segments": [
+  {
+   "image": "assets/story/DSCF3141.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/LM_06207.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/DSCF3239.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/LM_06317.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/LM_06447.jpg",
+   "dur": 2.4
+  },
+  {
+   "endcard": true,
+   "dur": 2.6,
+   "line1": "Send us a message",
+   "line2": "wildr.shop"
+  }
+ ],
+ "texts": [
+  {
+   "t0": 0.2,
+   "t1": 1.9,
+   "text": "Our base: Kamifurano",
+   "style": "Big"
+  },
+  {
+   "t0": 2.2,
+   "t1": 3.9,
+   "text": "Our own houses in town",
+   "style": "Low"
+  },
+  {
+   "t0": 4.2,
+   "t1": 5.9,
+   "text": "Ropeways and lifts\nwithin easy reach",
+   "style": "Low"
+  },
+  {
+   "t0": 6.2,
+   "t1": 7.9,
+   "text": "Guided every day",
+   "style": "Low"
+  },
+  {
+   "t0": 8.2,
+   "t1": 9.9,
+   "text": "A few places left this winter",
+   "style": "Low"
+  }
+ ]
+}

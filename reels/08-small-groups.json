@@ -1,0 +1,63 @@
+{
+ "out": "assets/reels/08-small-groups.mp4",
+ "segments": [
+  {
+   "image": "assets/story/LM_06353.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/LM_06335.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/LM_06348.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/LM_06507.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/LM_06313.jpg",
+   "dur": 2.4
+  },
+  {
+   "endcard": true,
+   "dur": 2.6,
+   "line1": "Guided powder weeks in Hokkaido",
+   "line2": "wildr.shop"
+  }
+ ],
+ "texts": [
+  {
+   "t0": 0.2,
+   "t1": 1.9,
+   "text": "Small groups",
+   "style": "Big"
+  },
+  {
+   "t0": 2.2,
+   "t1": 3.9,
+   "text": "Max six guests per guide",
+   "style": "Low"
+  },
+  {
+   "t0": 4.2,
+   "t1": 5.9,
+   "text": "Your pace. Your level.",
+   "style": "Low"
+  },
+  {
+   "t0": 6.2,
+   "t1": 7.9,
+   "text": "Guides with local knowledge",
+   "style": "Low"
+  },
+  {
+   "t0": 8.2,
+   "t1": 9.9,
+   "text": "Friends by the end of the week",
+   "style": "Low"
+  }
+ ]
+}

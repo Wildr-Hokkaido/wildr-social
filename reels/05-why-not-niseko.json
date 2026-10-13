@@ -1,0 +1,63 @@
+{
+ "out": "assets/reels/05-why-not-niseko.mp4",
+ "segments": [
+  {
+   "image": "assets/story/LM_06291.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/DSCF3150.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/LM_06536.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/LM_06753.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/LM_06741.jpg",
+   "dur": 2.4
+  },
+  {
+   "endcard": true,
+   "dur": 2.6,
+   "line1": "Kamifurano, Hokkaido",
+   "line2": "wildr.shop"
+  }
+ ],
+ "texts": [
+  {
+   "t0": 0.2,
+   "t1": 1.9,
+   "text": "Why not Niseko?",
+   "style": "Big"
+  },
+  {
+   "t0": 2.2,
+   "t1": 3.9,
+   "text": "Everyone goes to Niseko",
+   "style": "Low"
+  },
+  {
+   "t0": 4.2,
+   "t1": 5.9,
+   "text": "We go where the crowds don't",
+   "style": "Low"
+  },
+  {
+   "t0": 6.2,
+   "t1": 7.9,
+   "text": "Central Hokkaido.\nQuiet forests, deep snow.",
+   "style": "Low"
+  },
+  {
+   "t0": 8.2,
+   "t1": 9.9,
+   "text": "Fresh tracks all day",
+   "style": "Low"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "out": "assets/reels/04-hokkaido-eats.mp4",
+ "segments": [
+  {
+   "image": "assets/story/DSCF3131.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/DSCF3351.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/DSCF3342.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/DSCF3372.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/DSCF3346.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/DSCF3236.jpg",
+   "dur": 2.4
+  },
+  {
+   "endcard": true,
+   "dur": 2.6,
+   "line1": "Come hungry. Ski hard.",
+   "line2": "wildr.shop"
+  }
+ ],
+ "texts": [
+  {
+   "t0": 0.2,
+   "t1": 1.9,
+   "text": "Hokkaido eats",
+   "style": "Big"
+  },
+  {
+   "t0": 2.2,
+   "t1": 3.9,
+   "text": "Seafood straight from\nthe cold northern seas",
+   "style": "Low"
+  },
+  {
+   "t0": 4.2,
+   "t1": 5.9,
+   "text": "Karaage, edamame\nand a cold beer",
+   "style": "Low"
+  },
+  {
+   "t0": 6.2,
+   "t1": 7.9,
+   "text": "Grilled eel on rice",
+   "style": "Low"
+  },
+  {
+   "t0": 8.2,
+   "t1": 9.9,
+   "text": "Every dinner is\npart of the trip",
+   "style": "Low"
+  },
+  {
+   "t0": 10.2,
+   "t1": 11.9,
+   "text": "Cooked with a smile",
+   "style": "Low"
+  }
+ ]
+}

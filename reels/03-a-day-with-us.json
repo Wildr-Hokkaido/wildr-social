@@ -1,0 +1,83 @@
+{
+ "out": "assets/reels/03-a-day-with-us.mp4",
+ "segments": [
+  {
+   "image": "assets/story/DSCF3137.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/DSCF3145.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/LM_06264.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/LM_06231.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/DSCF3342.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/LM_06741.jpg",
+   "dur": 2.4
+  },
+  {
+   "image": "assets/story/DSCF3348.jpg",
+   "dur": 2.4
+  },
+  {
+   "endcard": true,
+   "dur": 2.6,
+   "line1": "A week like this in Hokkaido",
+   "line2": "wildr.shop"
+  }
+ ],
+ "texts": [
+  {
+   "t0": 0.2,
+   "t1": 1.9,
+   "text": "06:47\nSnow falling on the village",
+   "style": "Low"
+  },
+  {
+   "t0": 2.2,
+   "t1": 3.9,
+   "text": "07:30\nBreakfast and the snow report",
+   "style": "Low"
+  },
+  {
+   "t0": 4.2,
+   "t1": 5.9,
+   "text": "09:00\nFirst chair. Nobody else here.",
+   "style": "Low"
+  },
+  {
+   "t0": 6.2,
+   "t1": 7.9,
+   "text": "10:30\nTree runs, deep as it gets",
+   "style": "Low"
+  },
+  {
+   "t0": 8.2,
+   "t1": 9.9,
+   "text": "13:00\nLunch, Japanese style",
+   "style": "Low"
+  },
+  {
+   "t0": 10.2,
+   "t1": 11.9,
+   "text": "15:00\nOne more run in the sun",
+   "style": "Low"
+  },
+  {
+   "t0": 12.2,
+   "t1": 13.9,
+   "text": "18:30\nIzakaya. Same again tomorrow.",
+   "style": "Low"
+  }
+ ]
+}

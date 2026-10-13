@@ -1,0 +1,17 @@
+{
+  "out": "assets/reels/01-countdown-40.mp4",
+  "segments": [
+    {"image": "assets/story/LM_06229.jpg", "dur": 2.4},
+    {"image": "assets/story/LM_06258.jpg", "dur": 2.4},
+    {"image": "assets/story/LM_06231.jpg", "dur": 2.4},
+    {"image": "assets/story/LM_06447.jpg", "dur": 2.4},
+    {"image": "assets/story/LM_06200.jpg", "dur": 2.4},
+    {"endcard": true, "dur": 2.6, "line1": "Powder season starts 28 November", "line2": "wildr.shop"}
+  ],
+  "texts": [
+    {"t0": 0.2, "t1": 3.9, "text": "40", "style": "Huge", "pos": [540, 860]},
+    {"t0": 0.5, "t1": 3.9, "text": "DAYS TO GO", "style": "Big", "pos": [540, 1080]},
+    {"t0": 4.1, "t1": 7.9, "text": "until the lifts start\nspinning in Hokkaido", "style": "Low"},
+    {"t0": 8.1, "t1": 9.9, "text": "Are you coming?", "style": "Low"}
+  ]
+}

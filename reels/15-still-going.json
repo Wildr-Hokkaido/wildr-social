@@ -1,0 +1,18 @@
+{
+ "out": "assets/reels/15-still-going.mp4",
+ "xf": 0.04,
+ "segments": [
+  {"image": "clips/DSCF8607.jpg", "dur": 2.4, "zoom": 0.0004},
+  {"image": "clips/IMG_1044.jpg", "dur": 2.4, "zoom": 0.0004},
+  {"video": "clips/20260222_122428.mp4", "start": 5.0, "dur": 2.6, "grade": "eq=saturation=0.35:contrast=1.08:brightness=-0.10"},
+  {"video": "clips/IMG_4800.MOV", "start": 7.5, "dur": 3.0, "grade": "eq=saturation=0.35:contrast=1.08:brightness=-0.10"},
+  {"video": "clips/20260220_124051.mp4", "start": 2.5, "dur": 3.2, "grade": "eq=saturation=0.35:contrast=1.08:brightness=-0.10"}
+ ],
+ "texts": [
+  {"t0": 0.15, "t1": 2.3, "text": "8 years in Vietnam.", "style": "Serif"},
+  {"t0": 2.5, "t1": 4.7, "text": "Summers in Europe.", "style": "Serif"},
+  {"t0": 4.9, "t1": 7.3, "text": "Winters in Japan.", "style": "Serif"},
+  {"t0": 7.5, "t1": 10.3, "text": "People keep asking\nwhen I'll settle down.", "style": "Serif"},
+  {"t0": 10.5, "t1": 13.4, "text": "Still going.", "style": "Serif"}
+ ]
+}

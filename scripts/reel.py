@@ -46,6 +46,8 @@ Style: Huge,DIN Condensed,320,&H00FFFFFF,&H00FFFFFF,&H50000000,&H64000000,-1,0,0
 Style: Big,DIN Condensed,160,&H00FFFFFF,&H00FFFFFF,&H50000000,&H64000000,-1,0,0,0,100,100,1,0,1,4,5,5,80,80,0,1
 Style: Sub,Futura,70,&H00FFFFFF,&H00FFFFFF,&H6E0F172A,&H00000000,-1,0,0,0,100,100,0,0,3,20,0,5,90,90,0,1
 Style: Low,Futura,74,&H00FFFFFF,&H00FFFFFF,&H6E0F172A,&H00000000,-1,0,0,0,100,100,0,0,3,20,0,2,90,90,300,1
+Style: Hook,Futura,80,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,3,4,8,80,80,330,1
+Style: Serif,Georgia,76,&H00FFFFFF,&H00FFFFFF,&H70000000,&H50000000,0,0,0,0,100,100,0,0,1,1.6,3,5,110,110,0,1
 Style: Top,DIN Condensed,130,&H00FFFFFF,&H00FFFFFF,&H50000000,&H64000000,-1,0,0,0,100,100,1,0,1,4,5,8,80,80,240,1
 
 [Events]
@@ -95,6 +97,8 @@ def segment(seg, path, tmp):
     else:
         vf = (f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},fps={FPS},"
               f"setpts=PTS/{seg.get('speed', 1.0)},format=yuv420p")
+        if seg.get("grade"):  # e.g. "eq=saturation=0.25:contrast=1.05" for the muted Still going look
+            vf = vf.replace(",format=yuv420p", "," + seg["grade"] + ",format=yuv420p")
         src = ["-ss", str(seg.get("start", 0)), "-t", str(seg["dur"] * seg.get("speed", 1.0)),
                "-i", str(ROOT / seg["video"])]
     run([*src, "-vf", vf, "-frames:v", str(frames), "-an", "-c:v", "libx264", "-preset", "medium",
@@ -102,7 +106,9 @@ def segment(seg, path, tmp):
 
 
 def main():
+    global XF
     spec = json.loads(pathlib.Path(sys.argv[1]).read_text())
+    XF = spec.get("xf", XF)  # 0.04 = near hard cut (viral formats)
     out = ROOT / spec["out"]
     out.parent.mkdir(parents=True, exist_ok=True)
     with tempfile.TemporaryDirectory() as td:

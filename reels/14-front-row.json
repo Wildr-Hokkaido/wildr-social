@@ -1,0 +1,10 @@
+{
+ "out": "assets/reels/14-front-row.mp4",
+ "xf": 0.04,
+ "segments": [
+  {"video": "clips/IMG_4505.MOV", "start": 3.2, "dur": 7.6}
+ ],
+ "texts": [
+  {"t0": 0.1, "t1": 7.5, "text": "front row at wildr", "style": "Hook"}
+ ]
+}

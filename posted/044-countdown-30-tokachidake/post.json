@@ -7,5 +7,9 @@
     "instagram",
     "facebook"
   ],
-  "format": "story"
+  "format": "story",
+  "published": {
+    "at": "2026-10-29T15:08:35Z",
+    "facebook": "29361382366884414"
+  }
 }
